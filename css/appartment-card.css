@@ -1,0 +1,19 @@
+/* APPARTMENT-CARD */
+.appartment-card {
+
+    background-color: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 0 0 16px #0000002e;
+    flex-grow: 1;
+    transition: all 0.2s;
+   
+
+   
+  
+  
+}
+.appartment-card-image:hover{
+    transform: scale(1.02);
+    box-shadow: 3px 5px 11px -5px;
+} 

@@ -1,0 +1,19 @@
+/* SEARCH RESULTS */
+
+.results-message {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.results-message .fas {
+    color: #0065FC;
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid #F2F2F2;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

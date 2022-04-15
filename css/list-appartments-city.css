@@ -1,0 +1,9 @@
+/* LIST APPARTMENTS CITY */
+
+.city-appartments-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
